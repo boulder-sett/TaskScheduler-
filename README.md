@@ -1,1 +1,1 @@
-# TaskScheduler-
+This JavaScript code defines a simple TaskScheduler class that allows you to add asynchronous tasks to a queue and execute them sequentially. Each task is a function that returns a Promise. The scheduler runs tasks one by one, and you can await the completion of each task.
